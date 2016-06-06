@@ -1,0 +1,5 @@
+Qty,partname,description,lib
+0,"CONN_01X08","Connector 01x08","conn"
+0,"CONN_02X04","Connector 02x04","conn"
+0,"CP_Small","Polarised capacitor","device"
+0,"C_Small","Unpolarized capacitor","device"
