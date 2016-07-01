@@ -35,8 +35,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "nRF24L01 breakout board"
-Date "2016-05-27"
-Rev "1.0"
+Date "2016-06-10"
+Rev "2.0"
 Comp "Arnaud Boudou"
 Comment1 ""
 Comment2 ""
